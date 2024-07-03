@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj": {}
+    "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj": {
+    "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj",
+        "projectUniqueName": "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj",
+        "projectPath": "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\obj\\",
+        "outputPath": "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
