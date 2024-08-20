@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj": {}
+    "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj": {}
   },
   "projects": {
-    "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj": {
+    "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\obj\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Escritorio\\backend projects\\Catalog\\BackendCatalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.27.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
